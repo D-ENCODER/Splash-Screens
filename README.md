@@ -10,4 +10,4 @@ Beautiful Splash Screens
 
 # Splash Screen - 1
 
-![](Splash-Screens/videos/Splash_Screen_1.mp4)
+![]()
