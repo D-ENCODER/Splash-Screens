@@ -1,6 +1,6 @@
 //  Import these packages in pubspec.yaml
-//   animated_text_kit: ^4.1.1
-//   page_transition: ^1.1.7+6
+//   animated_text_kit: ^4.2.1
+//   page_transition: ^2.0.2
 
 
 import 'dart:async';
